@@ -21,4 +21,5 @@ pillow
 streamlit
 
 
+librosa
 
