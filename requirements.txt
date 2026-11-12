@@ -1,3 +1,7 @@
+# frontend library 
+streamlit
+
+
 # utilities 
 numpy 
 pandas
@@ -17,8 +21,7 @@ bcrypt
 segno
 # for image preprocessing
 pillow
-# frontend library 
-streamlit
+
 
 
 librosa
